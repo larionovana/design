@@ -9,4 +9,4 @@
 
 Работа выполнялась с помощью "Теремка"
 
-Также во время обучения удалось познакомиться с Таблицей принятия решений и [протестировать модуль оплаты Paypal]{https://docs.google.com/spreadsheets/d/18CbhO6aIOTZIdYZTqhxBw1SAW9a_F5-cwDL-7L-NsVY/edit?gid=0#gid=0)
+Также во время обучения удалось познакомиться с Таблицей принятия решений и протестировать модуль оплаты [Paypal]{https://docs.google.com/spreadsheets/d/18CbhO6aIOTZIdYZTqhxBw1SAW9a_F5-cwDL-7L-NsVY/edit?usp=sharing)
